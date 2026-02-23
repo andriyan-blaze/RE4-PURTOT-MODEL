@@ -1,7 +1,7 @@
 # RE4-PURTOT-MODEL
 Porting all models available on the internet to game RE4 (PS2, Wii, Ubisoft, UHD, PS3).
 # Compatibility
-- Blender v3.6.0 LTS / Portable (Already locked for this version).
+- Blender v3.6.0 LTS / Portable (Already locked for this version), [link here](https://download.blender.org/release/Blender3.6/).
 # Fitur / Panel
 - Import/load 3D models in .OBJ format (from your PC/laptop directory).
 - Export 3D models in .OBJ format (select your PC/laptop directory to save the results).
