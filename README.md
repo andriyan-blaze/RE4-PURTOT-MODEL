@@ -12,4 +12,7 @@ Porting all models available on the internet to game RE4 (PS2, Wii, Ubisoft, UHD
 - Fix mesh, serves to fix faces/polygons that usually cause transparency bugs after export (in this case the texture index is not transparent).
 # Tutorials / Guide Add-on
 - [Cek Here](https://youtu.be/YeAAt79g1n0)
+# Other Toolset RE4
+- [Jaderlink](https://github.com/JADERLINK)
+- [Hardrain](https://github.com/christianmateus)
 
